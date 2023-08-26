@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kaihochak
+- 🌸 This is my personal website: [kaihochak](https://kaihochak.github.io/)
 - 👀 I’m interested in web development, philosophy, photography music, and movies.
 - 🌱 I’m a soon-to-be Computer Science graduate
 - 💞️ I’m looking to collaborate on any interesting projects 
