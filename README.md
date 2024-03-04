@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaihochak
-- 🌸 This is my website: [kaihochak](https://kaihochak.github.io/)
+- 👋 Hi, I’m @kaihochak. I also go by Jacob.
+- 🌸 This is my website: [kaihochak/jacobchak](https://kaihochak.github.io/)
 - 👀 I’m interested in web development, philosophy, photography music, and movies.
 - 🌱 I’m a developer and business analyst
 - 💞️ I’m looking to collaborate on any interesting projects 
