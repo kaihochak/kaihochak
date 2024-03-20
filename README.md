@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaihochak. I also go by Jacob.
-- 🌸 This is my website: [kaihochak/jacobchak](https://kaihochak.github.io/)
-- 👀 I’m interested in web development, philosophy, photography music, and movies.
+- 👀 I’m interested in web development, philosophy, photography music, and films.
 - 🌱 I’m a developer and business analyst
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 So please feel free to contact me through my email at jacobchakkaiho@gmail.com or call me at +1 (587) 973-4199
