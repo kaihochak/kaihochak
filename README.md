@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaihochak. I also go by Jacob.
-- 👀 I’m interested in web development, philosophy, photography music, and films.
-- 🌱 I’m a developer and business analyst
+- 🌱 I’m a developer and a business analyst
+- 👀 I’m interested in philosophy, photography music, and films.
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 So please feel free to contact me through my email at jacobchakkaiho@gmail.com or call me at +1 (587) 973-4199
